@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Third party apps
     'django_extensions',
+    'rest_framework',
 
     # My Apps
     'apps.tickets.apps.TicketsConfig',
